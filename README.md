@@ -1,5 +1,5 @@
 # Portfolio
-A complete description of me and my projects. Link is provided below
+My Portfolio website created using HTML, CSS, JS and my projects developed using Python, Kivy, HTML, CSS, C, C++ and few other stacks. Link is provided below
 
 https://techmachine.me/
 
