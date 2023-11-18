@@ -1,7 +1,7 @@
 # Portfolio
 My Portfolio website created using HTML, CSS, JS and my projects developed using Python, Kivy, HTML, CSS, C, C++ and few other stacks. Link is provided below
 
-https://techmachine.me/
+www.techmachine.me
 
 ![Screenshot from 2023-11-03 18-39-21](https://github.com/Krupal-create/portfolio/assets/85097081/30f888da-54cc-4489-a97e-99cf92986e0e)
 
